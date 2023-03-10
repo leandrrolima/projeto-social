@@ -13,6 +13,8 @@ body{
     background-image:linear-gradient(to bottom,rgb(255, 255, 255), rgb(90, 197, 247));
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    
   
 }
 main{
@@ -35,7 +37,7 @@ iframe#tela{
     top: 80px;
     left: 22px;
     height:470px;
-    width: 269px;
+    width: 267px;
 }
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.63);
