@@ -12,6 +12,7 @@ html, body{
 body{
     background-image:linear-gradient(to bottom,rgb(255, 255, 255), rgb(90, 197, 247));
     background-size: cover;
+    background-attachment: fixed;
   
 }
 main{
